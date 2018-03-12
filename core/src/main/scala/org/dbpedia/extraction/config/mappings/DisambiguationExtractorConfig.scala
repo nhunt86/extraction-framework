@@ -31,5 +31,6 @@ object DisambiguationExtractorConfig
          "ru" -> " (значения)",
          "sk" -> " (Rozlišovacia stránka)",
          "sr" -> " (Višeznačna odrednica)"  //TODO make it a Set() for multiple “sr” -> " (вишезначна одредница)"
+         "vi" -> " (sự phân hóa)",
     )
 }
